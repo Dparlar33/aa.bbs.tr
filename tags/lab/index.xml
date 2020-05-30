@@ -5,7 +5,7 @@
     <link>https://aa.bbs.tr/tags/lab/</link>
       <atom:link href="https://aa.bbs.tr/tags/lab/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Abbas Elmas</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Abbas Elmas</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aa.bbs.tr/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lab</title>
@@ -15,26 +15,24 @@
     <item>
       <title>CEN 214 Microprocessors Lab</title>
       <link>https://aa.bbs.tr/lab/cen214-microprocessors/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>https://aa.bbs.tr/lab/cen214-microprocessors/</guid>
-      <description>&lt;h3 id=&#34;lab-sessions&#34;&gt;Lab Sessions&lt;/h3&gt;
-&lt;p&gt;Every Tuesday&lt;/p&gt;
-&lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&#34;documentation/index.html&#34;&gt;Emulator Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;announcements&#34;&gt;Announcements&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Lab&lt;/th&gt;
+&lt;th&gt;Instruction&lt;/th&gt;
 &lt;th&gt;Codes&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;18.02.20&lt;/td&gt;
-&lt;td&gt;Lab 1 - 
+&lt;td&gt;Lab 1&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab1.pdf&#34;&gt;MOV, ADD, SUB&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/1-1.asm&#34;&gt;1&lt;/a&gt;, 
@@ -42,21 +40,16 @@
 &lt;a href=&#34;codes/1-3.asm&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;25.02.20&lt;/td&gt;
-&lt;td&gt;No Lab session will be held.&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;03.03.20&lt;/td&gt;
-&lt;td&gt;Lab 2 - 
+&lt;td&gt;Lab 2&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab2.pdf&#34;&gt;Loop, INC, DEC&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/2-1.asm&#34;&gt;1&lt;/a&gt;, 
 &lt;a href=&#34;codes/2-2.asm&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;10.03.20&lt;/td&gt;
-&lt;td&gt;Lab 3 - 
+&lt;td&gt;Lab 3&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab3.pdf&#34;&gt;CMP, JMP, Jcc&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/3-1.asm&#34;&gt;1&lt;/a&gt;, 
@@ -64,13 +57,8 @@
 &lt;a href=&#34;codes/3-3.asm&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;17.03.20&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;24.03.20&lt;/td&gt;
-&lt;td&gt;Lab 4 - 
+&lt;td&gt;Lab 4&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab4.pdf&#34;&gt;ADC, SBB&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/4-1.asm&#34;&gt;1&lt;/a&gt;, 
@@ -78,8 +66,8 @@
 &lt;a href=&#34;codes/4-3.asm&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;30.03.20&lt;/td&gt;
-&lt;td&gt;Lab 5 - 
+&lt;td&gt;Lab 5&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab5.pdf&#34;&gt;STOS, LODS, MOVS, REP&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/5-1.asm&#34;&gt;1&lt;/a&gt;,
@@ -87,8 +75,8 @@
 &lt;a href=&#34;codes/5-3.asm&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;07.04.20&lt;/td&gt;
-&lt;td&gt;Lab 6 - 
+&lt;td&gt;Lab 6&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab6.pdf&#34;&gt;MUL, DIV&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/6-1.asm&#34;&gt;1&lt;/a&gt;,
@@ -97,8 +85,8 @@
 &lt;a href=&#34;codes/6-4.asm&#34;&gt;4&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;14.04.20&lt;/td&gt;
-&lt;td&gt;Lab 7 - 
+&lt;td&gt;Lab 7&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab7.pdf&#34;&gt;INT, LEA&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/7-1.asm&#34;&gt;1&lt;/a&gt;,
@@ -106,8 +94,8 @@
 &lt;a href=&#34;codes/7-3.asm&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;21.04.20&lt;/td&gt;
-&lt;td&gt;Lab 8 - 
+&lt;td&gt;Lab 8&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab8.pdf&#34;&gt;SHL, SAL, SHR, SAR&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/8-1.asm&#34;&gt;1&lt;/a&gt;,
@@ -116,8 +104,8 @@
 &lt;a href=&#34;codes/8-4.asm&#34;&gt;4&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;28.04.20&lt;/td&gt;
-&lt;td&gt;Lab 9 - 
+&lt;td&gt;Lab 9&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab9.pdf&#34;&gt;ROL, RCL, ROR, RCR&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/9-1.asm&#34;&gt;1&lt;/a&gt;,
@@ -125,34 +113,26 @@
 &lt;a href=&#34;codes/9-3.asm&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;05.05.20&lt;/td&gt;
-&lt;td&gt;Lab 10 - 
+&lt;td&gt;Lab 10&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab10.pdf&#34;&gt;PUSH, POP&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;codes/10.asm&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;12.05.20&lt;/td&gt;
-&lt;td&gt;Lab 11 - 
+&lt;td&gt;Lab 11&lt;/td&gt;
+&lt;td&gt;
 &lt;a href=&#34;slides/lab11.pdf&#34;&gt;CALL, PROC&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;codes/11-1.asm&#34;&gt;1&lt;/a&gt;, 
-&lt;a href=&#34;codes/11-2.asm&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;codes/11.asm&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;19.05.20&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;26.05.20&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;01.06.20&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;Lab 12&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;slides/lab12.pdf&#34;&gt;Exercises&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;codes/12-1.asm&#34;&gt;1&lt;/a&gt;
+&lt;a href=&#34;codes/12-2.asm&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

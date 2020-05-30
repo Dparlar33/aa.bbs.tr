@@ -1,5 +1,3 @@
-; 3. soru
-
 MOV AX, 0100h
 MOV DS, AX    
 
