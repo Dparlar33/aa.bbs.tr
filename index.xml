@@ -186,6 +186,41 @@
     </item>
     
     <item>
+      <title>CEN 215 Data Structures Lab</title>
+      <link>https://aa.bbs.tr/lab/cen215-data-structures/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aa.bbs.tr/lab/cen215-data-structures/</guid>
+      <description>&lt;h2 id=&#34;announcements&#34;&gt;Announcements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Midterm Grades&lt;/li&gt;
+&lt;li&gt;Final Grades&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feel free to email me 
+&lt;a href=&#34;mailto:aelmas@cu.edu.tr?subject=Data-Structure-Lab&#34;&gt;aelmas@cu.edu.tr&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.allitebooks.org/data-structures-using-c-2nd-edition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Structures Using C, 2nd edition&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://goalkicker.com/CBook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C Notes for Professionals&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential C&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://boredzo.org/pointers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything you need to know about pointers in C&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://ee.hawaii.edu/~tep/EE160/Book/PDF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programming in C&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://publications.gbdirect.co.uk//c_book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The C Book&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://www1.gantep.edu.tr/~bingul/c/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C Programlama Dili&amp;rsquo;ne Giriş&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://web.itu.edu.tr/uyar/programlama/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programlamaya Giriş Ders Notları&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Brief History of 3D Mesh Compression</title>
       <link>https://aa.bbs.tr/publication/imsec/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
