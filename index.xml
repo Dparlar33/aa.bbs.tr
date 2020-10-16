@@ -5,7 +5,7 @@
     <link>https://aa.bbs.tr/</link>
       <atom:link href="https://aa.bbs.tr/index.xml" rel="self" type="application/rss+xml" />
     <description>Abbas Elmas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Abbas Elmas</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Abbas Elmas</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aa.bbs.tr/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Abbas Elmas</title>
@@ -51,6 +51,41 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CEN 215 Data Structures Lab</title>
+      <link>https://aa.bbs.tr/lab/cen215-data-structures/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://aa.bbs.tr/lab/cen215-data-structures/</guid>
+      <description>&lt;h2 id=&#34;announcements&#34;&gt;Announcements&lt;/h2&gt;
+&lt;p&gt;Midterm grade will be covered by 3 project works. There will be no midterm exam for Data Structure Lab.
+Recorded course videos are available in 
+&lt;a href=&#34;https://cukurova-my.sharepoint.com/:f:/g/personal/2019913002_ogr_cu_edu_tr/Et5gNo13poZLvEvczX8HXysByaxNYCeocwLp0MCJVcfMMg?e=tHFKwg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; on OneDrive.&lt;/p&gt;
+&lt;p&gt;Course schedule is Friday morning at 08.15 and Friday afternoon at 17.15.&lt;/p&gt;
+&lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feel free to email me 
+&lt;a href=&#34;mailto:aelmas@cu.edu.tr?subject=Data-Structure-Lab&#34;&gt;aelmas@cu.edu.tr&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.allitebooks.org/data-structures-using-c-2nd-edition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Structures Using C, 2nd edition&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://goalkicker.com/CBook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C Notes for Professionals&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential C&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://boredzo.org/pointers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything you need to know about pointers in C&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://ee.hawaii.edu/~tep/EE160/Book/PDF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programming in C&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://publications.gbdirect.co.uk//c_book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The C Book&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://www1.gantep.edu.tr/~bingul/c/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C Programlama Dili&amp;rsquo;ne Giriş&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://web.itu.edu.tr/uyar/programlama/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programlamaya Giriş Ders Notları&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -182,41 +217,6 @@
 &lt;p&gt;We will use emu8086 emulator to simulate our assembly code. Kindly download and install on your computer with the below download link. This program will be available in our lab computers but I suggest you to install and code on your own environment.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://aa.bbs.tr/lab/cen214-microprocessors/emu8086.rar&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CEN 215 Data Structures Lab</title>
-      <link>https://aa.bbs.tr/lab/cen215-data-structures/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://aa.bbs.tr/lab/cen215-data-structures/</guid>
-      <description>&lt;h2 id=&#34;announcements&#34;&gt;Announcements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Midterm Grades&lt;/li&gt;
-&lt;li&gt;Final Grades&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to email me 
-&lt;a href=&#34;mailto:aelmas@cu.edu.tr?subject=Data-Structure-Lab&#34;&gt;aelmas@cu.edu.tr&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.allitebooks.org/data-structures-using-c-2nd-edition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Structures Using C, 2nd edition&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://goalkicker.com/CBook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C Notes for Professionals&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essential C&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://boredzo.org/pointers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything you need to know about pointers in C&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://ee.hawaii.edu/~tep/EE160/Book/PDF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programming in C&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://publications.gbdirect.co.uk//c_book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The C Book&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;http://www1.gantep.edu.tr/~bingul/c/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C Programlama Dili&amp;rsquo;ne Giriş&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://web.itu.edu.tr/uyar/programlama/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programlamaya Giriş Ders Notları&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

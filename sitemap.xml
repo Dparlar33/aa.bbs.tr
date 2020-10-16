@@ -19,31 +19,46 @@
   
   <url>
     <loc>https://aa.bbs.tr/authors/abbas/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aa.bbs.tr/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aa.bbs.tr/authors/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aa.bbs.tr/lab/cen214-microprocessors/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+    <loc>https://aa.bbs.tr/lab/cen215-data-structures/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aa.bbs.tr/tags/data-structures/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aa.bbs.tr/tags/lab/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aa.bbs.tr/lab/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aa.bbs.tr/tags/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aa.bbs.tr/lab/cen214-microprocessors/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,23 +68,8 @@
   </url>
   
   <url>
-    <loc>https://aa.bbs.tr/tags/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aa.bbs.tr/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aa.bbs.tr/lab/cen215-data-structures/</loc>
-    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aa.bbs.tr/tags/data-structures/</loc>
-    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
