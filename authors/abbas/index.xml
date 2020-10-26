@@ -18,10 +18,21 @@
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://aa.bbs.tr/lab/cen215-data-structures/</guid>
       <description>&lt;h2 id=&#34;announcements&#34;&gt;Announcements&lt;/h2&gt;
-&lt;p&gt;Midterm grade will be covered by 3 project works. There will be no midterm exam for Data Structure Lab.
-Recorded course videos are available in 
+&lt;p&gt;Midterm grade will be covered by &lt;del&gt;three&lt;/del&gt; multiple project works. There will be no midterm exam for Data Structure Lab.&lt;/p&gt;
+&lt;p&gt;Recorded course videos are available in 
 &lt;a href=&#34;https://cukurova-my.sharepoint.com/:f:/g/personal/2019913002_ogr_cu_edu_tr/Et5gNo13poZLvEvczX8HXysByaxNYCeocwLp0MCJVcfMMg?e=tHFKwg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; on OneDrive.&lt;/p&gt;
 &lt;p&gt;Course schedule is Friday morning at 08.15 and Friday afternoon at 17.15.&lt;/p&gt;
+&lt;h3 id=&#34;homeworks&#34;&gt;Homeworks&lt;/h3&gt;
+&lt;h4 id=&#34;1-sortinghttpsgithubcomabbaselmascen215datastructurelabtreemastersorting&#34;&gt;1. 
+&lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab/tree/master/Sorting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorting&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Due date and time: 27.10.2020 @17:00&lt;/strong&gt;&lt;br&gt;
+Implement every sort we have covered on Lab sessions on a single C program and measure their performances. Use your &amp;ldquo;name&amp;rdquo; and &amp;ldquo;student number&amp;rdquo; for unsorted arrays. Print performance reports and sorted arrays. Put a screenshot of your output (terminal) to your homework folder.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork our 
+&lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cen215DataStructureLab&lt;/a&gt; repository.&lt;/li&gt;
+&lt;li&gt;Update your fork with homework added.&lt;/li&gt;
+&lt;li&gt;Create pull request to original repo.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;
