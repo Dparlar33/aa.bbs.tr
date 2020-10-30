@@ -5,7 +5,7 @@
     <link>https://aa.bbs.tr/tags/lab/</link>
       <atom:link href="https://aa.bbs.tr/tags/lab/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Abbas Elmas</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Abbas Elmas</copyright><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aa.bbs.tr/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lab</title>
@@ -15,7 +15,7 @@
     <item>
       <title>CEN 215 Data Structures Lab</title>
       <link>https://aa.bbs.tr/lab/cen215-data-structures/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://aa.bbs.tr/lab/cen215-data-structures/</guid>
       <description>&lt;h2 id=&#34;announcements&#34;&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;Midterm grade will be covered by &lt;del&gt;three&lt;/del&gt; multiple project works. There will be no midterm exam for Data Structure Lab.&lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;h3 id=&#34;homeworks&#34;&gt;Homeworks&lt;/h3&gt;
 &lt;h4 id=&#34;1-sortinghttpsgithubcomabbaselmascen215datastructurelabtreemastersorting&#34;&gt;1. 
 &lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab/tree/master/Sorting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorting&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Due date and time: 27.10.2020 @17:00&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Due date and time: 27.10.2020 @17:00&lt;/strong&gt;&lt;/del&gt;&lt;br&gt;
 Implement every sort we have covered on Lab sessions on a single C program and measure their performances. Use your &amp;ldquo;name&amp;rdquo; and &amp;ldquo;student number&amp;rdquo; for unsorted arrays. Print performance reports and sorted arrays. Put a screenshot of your output (terminal) to your homework folder.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fork our 
@@ -33,6 +33,11 @@ Implement every sort we have covered on Lab sessions on a single C program and m
 &lt;li&gt;Update your fork with homework added.&lt;/li&gt;
 &lt;li&gt;Create pull request to original repo.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;2-sortinghttpsgithubcomabbaselmascen215datastructurelabtreemastersorting&#34;&gt;2. 
+&lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab/tree/master/Sorting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorting&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Due date and time: 01.11.2020 @23:59&lt;/strong&gt;&lt;br&gt;
+Update your homework 1 by including Quick and Merge sort, and their performances. Don&amp;rsquo;t forget to update your screenshot. Send &lt;strong&gt;Pull Request&lt;/strong&gt; with only changed 2 files(&lt;em&gt;foo&lt;/em&gt;.c and &lt;em&gt;bar&lt;/em&gt;.png) which will only include this week topics. Do not alter your previous week code.&lt;br&gt;
+If you didn&amp;rsquo;t submit previous homework, please submit complete (hw1 + hw2) homework. Create your own folder under sorting folder.&lt;/p&gt;
 &lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;
