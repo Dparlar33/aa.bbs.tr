@@ -78,7 +78,7 @@ Implement every sort we have covered on Lab sessions on a single C program and m
 &lt;h4 id=&#34;2-sortinghttpsgithubcomabbaselmascen215datastructurelabtreemastersorting&#34;&gt;2. 
 &lt;a href=&#34;https://github.com/abbaselmas/cen215DataStructureLab/tree/master/Sorting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorting&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Due date and time: 01.11.2020 @23:59&lt;/strong&gt;&lt;br&gt;
-Update your homework 1 by including Quick and Merge sort, and their performances. Don&amp;rsquo;t forget to update your screenshot. Send &lt;strong&gt;Pull Request&lt;/strong&gt; with only changed 2 files(&lt;em&gt;foo&lt;/em&gt;.c and &lt;em&gt;bar&lt;/em&gt;.png) which will only include this week topics. Do not alter your previous week code.&lt;br&gt;
+Update your homework 1 by including &lt;strong&gt;Quick&lt;/strong&gt; and &lt;strong&gt;Heap&lt;/strong&gt; sort, and their performances. Don&amp;rsquo;t forget to update your screenshot. Send &lt;strong&gt;Pull Request&lt;/strong&gt; with only changed 2 files(&lt;em&gt;foo&lt;/em&gt;.c and &lt;em&gt;bar&lt;/em&gt;.png) which will only include this week topics. Do not alter your previous week code.&lt;br&gt;
 If you didn&amp;rsquo;t submit previous homework, please submit complete (hw1 + hw2) homework. Create your own folder under sorting folder.&lt;/p&gt;
 &lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
 &lt;p&gt;
